@@ -6,6 +6,10 @@ html {
     line-height: 1.4;
 }
 
+body {
+    background-color: yellow;
+}
+
 h1 {
     color: red
 }
