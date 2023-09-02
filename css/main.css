@@ -6,6 +6,10 @@ html {
     line-height: 1.4;
 }
 
+h1 {
+    color: red
+}
+
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
