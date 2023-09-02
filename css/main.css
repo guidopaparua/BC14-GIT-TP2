@@ -12,6 +12,7 @@ body {
 
 .saludo {
    background-image:url("../img/FONDO-VideoCalls-9.jpg");
+   height: 800px;
 }
 
 h1 {
